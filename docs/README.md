@@ -1,5 +1,5 @@
 # 🔮 Mentalista
-### 🧠 Currency converter
+### 🧠 Mentalist
 <br>
 
 📸 Screenshot
